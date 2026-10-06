@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto desenvolvido na disciplina de Programação Mobile, com foco em utilização da câmera do dispositivo e compartilhamento de imagens. A aplicação permite que o usuário acesse a câmera do celular, alterne entre câmera frontal e traseira, capture uma foto e compartilhe a imagem em outros aplicativos de mídia disponíveis no sistema.
 
-## Visão geral
+## 👀 Visão geral
 
 O app foi construído com React Native + Expo e usa o módulo `expo-camera` para controlar a câmera do dispositivo. A interação principal acontece em uma única tela, com os seguintes fluxos:
 
@@ -47,7 +47,7 @@ npm run ios
 
 ou use o QR Code com o aplicativo Expo Go em um dispositivo móvel.
 
-## Componentes e estrutura do projeto
+## 🔗 Componentes e estrutura do projeto
 
 ### App principal
 O arquivo principal da aplicação está em `App.tsx` e é responsável por:
@@ -76,7 +76,7 @@ O arquivo principal da aplicação está em `App.tsx` e é responsável por:
 6. A imagem capturada aparece em uma visualização abaixo da câmera.
 7. O botão de compartilhamento envia a foto para outros aplicativos compatíveis.
 
-## Estrutura de arquivos
+## 🔗 Estrutura de arquivos
 
 ```bash
 projeto-react-native-usando-camera/
@@ -90,7 +90,7 @@ projeto-react-native-usando-camera/
 ├── README.md
 ```
 
-## Funcionalidades implementadas
+## 🛠️ Funcionalidades implementadas
 
 - Permissão de acesso à câmera
 - Alternância entre câmera frontal e traseira
