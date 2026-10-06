@@ -76,7 +76,7 @@ O arquivo principal da aplicação está em `App.tsx` e é responsável por:
 6. A imagem capturada aparece em uma visualização abaixo da câmera.
 7. O botão de compartilhamento envia a foto para outros aplicativos compatíveis.
 
-## 🔗 Estrutura de arquivos
+## 🗂️ Estrutura de arquivos
 
 ```bash
 projeto-react-native-usando-camera/
